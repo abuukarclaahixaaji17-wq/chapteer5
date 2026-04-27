@@ -1,0 +1,45 @@
+body {
+    background-image: url(images.jpg);
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #f8f4f4;
+}
+
+header {
+    background-color: #0b4a9c;
+    color: #fff;
+    padding: 10px 0;
+}
+
+nav {
+    background-color: #79de0d;
+    padding: 10px;
+}
+
+nav a {
+    color: #a8e50f71;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+main {
+    padding: 20px;
+}
+
+
+footer {
+    background-color: #2a14a7;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+img {
+    border: black solid 2px;
+    color: gold;
+}
+video {
+    border: black solid 2px;
+    position: RIGHT;
+}
